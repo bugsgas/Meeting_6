@@ -1,0 +1,121 @@
+* {
+   margin: 0px;
+}
+
+    hr.new1 {
+    border: 2px solid #7952b3;
+    margin-top: 60px;
+    }
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.wrapper {
+    width: 100%;
+}
+
+.container {
+    max-width: 1040px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0px;
+}
+
+.container-feature {
+    max-width: 1040px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 96px 0px;
+}
+
+a {
+   margin: 0 0 0 4px;
+   font-size: 17px;
+   color: #31353b;
+   padding: 8px 24px;
+}
+
+a:link {
+   color: #31353bad;
+   text-decoration: none;
+}
+
+
+.button{
+    background: #335eea;
+    padding: 9px 16px;
+    color: white;
+    border-radius: 8px;
+    font-size: 17px;
+    border: none;
+}
+
+.button-action{
+    background: #335eea;
+    padding: 13px 20px;
+    color: white;
+    border-radius: 8px;
+    font-size: 17px;
+    border: none;
+    margin-right: 4px;
+}
+
+.button-aktion{
+    background: #335eea1a;
+    padding: 13px 20px;
+    color: #335eea;
+    border-radius: 8px;
+    font-size: 17px;
+    border: none;
+}
+
+.image-container {
+    width: 600px;
+
+}
+
+.image-container img {
+    width: 100%;
+
+}
+
+.welcome h1 {
+    font-size: 48px;
+    padding-bottom: 16px;
+
+}
+
+.welcome p {
+    font-size: 21px;
+    color: #869ab8
+}
+
+.textbox {
+    padding-bottom: 48px;
+}
+
+.feature h3 {
+    color: #161c2d;
+    font-size: 21px;
+    margin: 0 0 8px;
+    padding-right: 0 20px;
+}
+
+.feature p {
+    color: #869ab8;
+    font-size: 17px;
+    padding-right: 20px;
+}
+
+.icon {
+    margin: 0 0 12px;
+}
+.bi {
+    font-size: 36px;
+    color: #335eea;
+}
